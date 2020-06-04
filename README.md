@@ -1,6 +1,6 @@
 # messenger-bot-nodejs
 - A simple Facebook Messenger Chatbot using Mesenger Platform (Node.js)
-- Test this bot: https://my-chatbot-haryphamdev.herokuapp.com/
+- Test this bot (this project) now : https://my-chatbot-haryphamdev.herokuapp.com/
 - Guide to set up this project: https://www.youtube.com/watch?v=h-JqLlNTfrc
 - Full tutorial: https://www.youtube.com/watch?v=h-JqLlNTfrc&list=PLNOjHC_BXrfB8DcOCHtKPWPMl4t9PG5cI&index=2&t=0s
 
