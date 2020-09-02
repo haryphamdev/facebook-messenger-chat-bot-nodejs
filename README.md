@@ -13,7 +13,9 @@ You can set up this project by following these steps below or an easier way, I c
 
 ### 2. Create a Heroku app, a Facebook Page, a Facebook App.
 #### 2.1 Create a Heroku app
-- Deploy app to Heroku
+- Deploy app to Heroku ( need to setup dev dependencies:
+heroku config:set NPM_CONFIG_PRODUCTION=false
+)
 - Config env variables (setup dev dependencies)
 #### 2.2 Facebook Page
 - Create a Facebook Page
